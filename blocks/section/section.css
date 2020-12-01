@@ -1,0 +1,28 @@
+.section {
+    max-width: 1184px;
+    margin: 0 48px 92px 48px;
+}
+
+@media screen and (max-width: 1025px) {
+    .section {
+        margin: 0 48px 92px 48px;
+    }
+}
+
+@media screen and (max-width: 769px) {
+    .section {
+        margin: 0 24px 88px 24px;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .section {
+        margin: 0 auto 88px auto;
+    }
+}
+
+@media screen and (max-width: 321px) {
+    .section {
+        margin: 0 16px 64px 16px;
+    }
+}

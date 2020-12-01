@@ -1,0 +1,17 @@
+.place__image-container {
+    margin: 0;
+}
+
+@media screen and (max-width: 500px) {
+    .place_image-container {
+        margin-left: -24px;
+        margin-right: -24px;
+    }
+}
+
+@media screen and (max-width: 321px) {
+    .place_image-container {
+        margin-left: -16px;
+        margin-right: -16px;
+    }
+}
